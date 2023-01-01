@@ -8,7 +8,7 @@ A discussions of these methods can be found in [Russel and Norvig, 1995](https:/
 
 ## Contents of repository
 
-2. The `Methods` directory contains scripts for:
+1. The `Methods` directory contains scripts for:
 
   1. Minimax on a generalised version of tic-tac-toe.
 
@@ -17,6 +17,8 @@ A discussions of these methods can be found in [Russel and Norvig, 1995](https:/
 The generalised version of tic-tac-toe extends tic-tac-toe to boards of dimensions
 m by n where the winner has k consecutive Xs (or Os) diagonally, vertically or
 horizontally.
+
+2. The `Results` directory contains scripts generating results for both of the methods.
 
 ---
 

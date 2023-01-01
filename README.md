@@ -1,6 +1,6 @@
 # Adversarial Search on Tic-Tac-Toe
 
-This repository implements adversarial search methods (MiniMax and Alpha-Beta pruning) on a generalised version of tic-tac-toe.
+This repository implements adversarial search methods (Minimax and Alpha-Beta pruning) on a generalised version of tic-tac-toe.
 
 A discussions of these methods can be found in [Russel and Norvig, 1995](https://zoo.cs.yale.edu/classes/cs470/materials/aima2010.pdf).
 
